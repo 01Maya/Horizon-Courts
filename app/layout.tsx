@@ -10,6 +10,8 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  maximumScale: 1, colorScheme: 'light', themeColor: '#ffffff' }
+  maximumScale: 1,
+  colorScheme: 'light',
+  themeColor: '#ffffff' }
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) { return <html lang="en" className="bg-white"><body>{children}{process.env.NODE_ENV === 'production' && <Analytics />}</body></html> }
 

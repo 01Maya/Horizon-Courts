@@ -12,3 +12,5 @@ The website combines immersive visuals, smooth transitions, interactive cards, a
 Every section follows consistent UI/UX principles with balanced spacing, colors, responsiveness, and usability.
 
 ---
+
+🚀 Features

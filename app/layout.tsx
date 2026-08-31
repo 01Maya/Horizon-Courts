@@ -12,6 +12,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   colorScheme: 'light',
-  themeColor: '#ffffff' }
+  themeColor: '#ffffff' 
+ }
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) { return <html lang="en" className="bg-white"><body>{children}{process.env.NODE_ENV === 'production' && <Analytics />}</body></html> }
 

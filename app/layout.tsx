@@ -14,11 +14,12 @@ export const viewport: Viewport = {
   colorScheme: 'light',
   themeColor: '#ffffff' 
  }
-export default function RootLayout(
-  { 
-  children
-  } : Readonly<{ children: React.ReactNode }>) 
-return (
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
     <html lang="en" className="bg-white">
       <body>
         {children}

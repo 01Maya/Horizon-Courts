@@ -19,3 +19,4 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 - 📱 Fully Responsive Design
 - ✨ Smooth Animations & Transitions
 - 🧭 Smooth Navigation to Sections
+- 🪟 Glassmorphism Effects

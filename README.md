@@ -15,3 +15,5 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 ---
 
 ## 🚀 Features
+
+- 📱 Fully Responsive Design

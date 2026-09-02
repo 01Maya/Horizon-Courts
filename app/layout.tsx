@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Horizon Courts — Premium Tennis Club', 
+  title: 'Horizon Courts — Premium Tennis Club🎾', 
   description: 'Where passion meets performance. Discover premium courts, coaching, memberships, and events at Horizon Courts.' 
   }
 

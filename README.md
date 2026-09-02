@@ -21,6 +21,6 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 - 🧭 Smooth Navigation to Sections
 - 🪟 Glassmorphism Effects
 - 💫 Animated Shine Card Effects
--  Interactive Hover Effects
+- 🖱️Interactive Hover Effects
 
 ---

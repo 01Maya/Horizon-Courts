@@ -23,6 +23,7 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 - 💫 Animated Shine Card Effects
 - 🖱️Interactive Hover Effects
 - 🎯 Micro-interactions
+- 🔄 Smooth Section Transitions
 
 
 ---

@@ -33,3 +33,4 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 ## 📑 Sections
 
 ### 🏆 Hero
+A visually immersive introduction section showcasing Horizon Courts and its premium tennis experience.

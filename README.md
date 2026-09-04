@@ -29,3 +29,5 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 - 🎨 Clean & Premium UI/UX
 
 ---
+
+## 📑 Sections

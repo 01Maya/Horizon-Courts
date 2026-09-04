@@ -36,3 +36,5 @@ Every section follows consistent UI/UX principles with balanced spacing, colors,
 A visually immersive introduction section showcasing Horizon Courts and its premium tennis experience.
 
 ### 👋 About Us
+Introduction to Horizon Courts, highlighting facilities, professional coaches, and key club statistics.
+

@@ -39,5 +39,6 @@ A visually immersive introduction section showcasing Horizon Courts and its prem
 Introduction to Horizon Courts, highlighting facilities, professional coaches, and key club statistics.
 
 ### 🎾 Services
+Explore professional coaching, training programs, private lessons, and court rental experiences.
 
 

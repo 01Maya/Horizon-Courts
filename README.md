@@ -45,3 +45,6 @@ Explore professional coaching, training programs, private lessons, and court ren
 Discover flexible membership plans designed for beginners, enthusiasts, and professional players.
 
 ### 🏟️ Club Life
+Explore social events, tennis activities, community experiences, and life beyond the court.
+
+

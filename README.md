@@ -41,4 +41,5 @@ Introduction to Horizon Courts, highlighting facilities, professional coaches, a
 ### 🎾 Services
 Explore professional coaching, training programs, private lessons, and court rental experiences.
 
+### 💎 Memberships
 

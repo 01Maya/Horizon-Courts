@@ -10,7 +10,7 @@ Horizon Courts delivers a polished digital experience for a modern tennis club w
 
 The website combines immersive visuals, smooth transitions, interactive cards, and refined micro-interactions.
 
-Every section follows consistent UI/UX principles with balanced spacing, colors, responsiveness, and usability.
+🗂️ Every section follows consistent UI/UX principles with balanced spacing, colors, responsiveness, and usability.
 
 ---
 

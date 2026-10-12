@@ -51,3 +51,5 @@ Explore social events, tennis activities, community experiences, and life beyond
 Discover unique tennis experiences and premium spaces designed to play, relax, and enjoy.
 
 ### 💬 Testimonials
+Hear real experiences and feedback from members of the Horizon Courts community.
+

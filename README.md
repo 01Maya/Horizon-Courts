@@ -57,4 +57,5 @@ Hear real experiences and feedback from members of the Horizon Courts community.
 Stay updated with upcoming events, exclusive offers, tennis news, and club announcements.
 
 ### 🔗 Footer
+Quick access to navigation links, services, contact information, and social platforms.
 

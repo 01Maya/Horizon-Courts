@@ -53,3 +53,4 @@ Discover unique tennis experiences and premium spaces designed to play, relax, a
 ### 💬 Testimonials
 Hear real experiences and feedback from members of the Horizon Courts community.
 
+### 📬 Newsletter

@@ -74,4 +74,9 @@ https://horizon-courts-gamma.vercel.app/
 
 ## ⚙️ Installation
 
+```bash
+# Clone the repository
+git clone <repository-url>
+
+
 ---

@@ -81,5 +81,14 @@ git clone <repository-url>
 # Navigate to the project directory
 cd horizon-courts
 
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+
+
 
 ---

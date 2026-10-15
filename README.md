@@ -78,5 +78,8 @@ https://horizon-courts-gamma.vercel.app/
 # Clone the repository
 git clone <repository-url>
 
+# Navigate to the project directory
+cd horizon-courts
+
 
 ---

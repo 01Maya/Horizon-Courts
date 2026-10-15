@@ -96,3 +96,7 @@ npm run build
 npm start
 ```
 ---
+
+<p align="center">
+  Made with ❤️ for tennis lovers 🎾
+</p>
